@@ -1,6 +1,6 @@
 # Relógio Web
 
-![preview](./.github/preview.png)
+![preview](./assets/preview.png)
 
 [Clique aqui para acessar](https://helena-antoni.github.io/relogio-js)
 
